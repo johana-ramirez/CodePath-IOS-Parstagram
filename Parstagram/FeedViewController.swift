@@ -44,7 +44,6 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
                 print("Error savivng comment")
             }
         }
-        
 
         tableView.reloadData()
         
